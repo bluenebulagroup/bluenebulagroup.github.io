@@ -254,13 +254,6 @@ nav {
   font-size: 1rem;
   font-weight: 700;
   color: var(--navy);
-  margin-bottom: 0.25rem;
-}
-
-.cert-desc {
-  font-size: 0.85rem;
-  color: var(--gray-500);
-  line-height: 1.4;
 }
 
 .cards {
